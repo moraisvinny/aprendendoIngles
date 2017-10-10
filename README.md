@@ -1,5 +1,9 @@
 # App1
 
+Projeto de estudos de Angular 4
+
+Para acessar: http://aprendendo-ingles.s3-website-sa-east-1.amazonaws.com/
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.2.
 
 ## Development server
